@@ -1,0 +1,175 @@
+2025-11-26 22:48:42.860828 - file "dog.jpg" got caption "a dog with a long coat"
+2025-11-26 22:52:02.418941 - file "dog.jpg" got caption "a dog with a long coat"
+2025-11-26 22:52:49.284357 - file "antenna.jpg" got caption "a large white satellite dish"
+2025-11-26 22:53:18.300744 - file "antenna.jpg" got caption "a large white satellite dish"
+2025-11-26 23:02:08.976972 - file "Dog.jpeg" got caption "a small dog sitting on a white surface"
+2025-11-26 23:09:29.809853 - file "dog.jpg" - 1 objects detected: "dog"
+2025-11-26 23:11:56.461046 - file "photo_2025-09-19 17.11.12.jpeg" - 4 objects detected: "person ,potted plant ,bench ,horse"
+2025-11-26 23:12:12.336273 - file "photo_2025-09-19 17.11.12.jpeg" - 5 objects detected: "person ,potted plant ,bench ,horse ,horse"
+2025-11-26 23:12:48.703651 - file "dog.jpg" - 1 objects detected: "dog"
+2025-11-26 23:13:04.282739 - file "dog.jpg" - 1 objects detected: "dog"
+2025-11-27 11:53:21.925345 - file "telecome.jpg" got caption "a man in a hard hat and hard hat holding a laptop"
+2025-11-27 11:54:26.854486 - file "antenna.jpg" got caption "a large white satellite dish"
+2025-11-27 12:02:11.666958 - file "dog.jpg" got caption "a dog with a long coat"
+2025-11-27 12:02:49.627253 - file "dog.jpg" got caption "dopgard dog with long hair"
+2025-11-27 12:02:58.036214 - file "dog.jpg" got caption "dog with long hair"
+2025-11-27 12:03:13.672879 - file "dog.jpg" got caption "white dog with long hair"
+2025-11-27 12:05:43.635199 - file "iStock-1496400280-1.jpg" - 0 objects detected: ""
+2025-11-27 12:05:58.568370 - file "iStock-1496400280-1.jpg" - 1 objects detected: "traffic light"
+2025-11-27 12:06:39.801817 - file "iStock-1496400280-1.jpg" - 0 objects detected: ""
+2025-11-27 12:06:42.111989 - file "iStock-1496400280-1.jpg" - 0 objects detected: ""
+2025-11-27 12:06:45.244366 - file "dog.jpg" - 1 objects detected: "dog"
+2025-11-27 12:49:18.321419 - file "food1.jpg" classified as "a photo of a food" with confidence 99.04%, saved to "food"
+2025-11-27 12:49:53.738587 - file "cat1.jpg" classified as "a photo of cat" with confidence 99.90%, saved to "cats"
+2025-11-27 12:51:09.113434 - file "cat1.jpg" classified as "a photo of cat" with confidence 99.90%, saved to "cats"
+2025-11-27 12:52:04.520014 - file "image2.jpg" classified as "a photo of nature" with confidence 99.65%, saved to "nature"
+2025-11-27 12:52:21.530373 - file "image2.jpg" classified as "a photo of nature" with confidence 99.65%, saved to "nature"
+2025-11-27 12:53:29.336003 - file "cat1.jpg" saved in database
+2025-11-27 12:53:36.887602 - file "cat1.jpg" saved in database
+2025-11-27 12:53:40.177215 - file "cat1.jpg" saved in database
+2025-11-27 13:03:09.275112 - file "people2.jpg" - 5 faces detected
+2025-11-27 13:03:51.509374 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:04:51.644944 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:04:59.995664 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:05:13.147635 - file "people1.jpg" - 7 faces detected
+2025-11-27 13:05:19.967333 - file "people1.jpg" - 7 faces detected
+2025-11-27 13:05:26.649172 - file "people1.jpg" - 7 faces detected
+2025-11-27 13:05:35.041326 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:05:46.281676 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:05:55.048683 - file "people1.jpg" - 10 faces detected
+2025-11-27 13:05:59.305600 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:06:06.185896 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:11:55.653167 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:12:27.956387 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:12:32.583811 - file "people1.jpg" - 11 faces detected
+2025-11-27 13:12:38.871220 - file "people1.jpg" - 10 faces detected
+2025-11-27 13:12:44.042303 - file "people1.jpg" - 10 faces detected
+2025-11-27 13:12:48.538593 - file "people1.jpg" - 14 faces detected
+2025-11-27 13:12:56.954081 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:13:06.685628 - file "people1.jpg" - 13 faces detected
+2025-11-27 13:13:11.961469 - file "people1.jpg" - 7 faces detected
+2025-11-27 13:13:19.955916 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:15:50.472632 - file "people2.jpg" - 5 faces detected
+2025-11-27 13:16:19.994945 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:16:37.181017 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:16:53.124479 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:17:13.312238 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:17:16.884458 - file "people1.jpg" - 9 faces detected
+2025-11-27 13:17:20.526278 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:17:25.334594 - file "people1.jpg" - 7 faces detected
+2025-11-27 13:17:35.396803 - file "people1.jpg" - 7 faces detected
+2025-11-27 13:17:38.557509 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:17:40.508872 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:18:22.395931 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:18:50.995756 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:21:58.699605 - file "people3.jpg" - 4 faces detected
+2025-11-27 13:23:29.021898 - file "people4.jpg" - 1 faces detected
+2025-11-27 13:24:00.486146 - file "people4.jpg" - 1 faces detected
+2025-11-27 13:24:08.398931 - file "people4.jpg" - 1 faces detected
+2025-11-27 13:24:18.228340 - file "people4.jpg" - 1 faces detected
+2025-11-27 13:24:26.081491 - file "people4.jpg" - 1 faces detected
+2025-11-27 13:24:30.219416 - file "people4.jpg" - 15 faces detected
+2025-11-27 13:24:41.651873 - file "people4.jpg" - 8 faces detected
+2025-11-27 13:24:47.601837 - file "people4.jpg" - 4 faces detected
+2025-11-27 13:24:55.192611 - file "people4.jpg" - 3 faces detected
+2025-11-27 13:25:10.507829 - file "people4.jpg" - 1 faces detected
+2025-11-27 13:25:17.095048 - file "people4.jpg" - 1 faces detected
+2025-11-27 13:25:26.407074 - file "people3.jpg" - 4 faces detected
+2025-11-27 13:26:55.555550 - file "people5.jpg" - 2 faces detected
+2025-11-27 13:27:10.215523 - file "people5.jpg" - 2 faces detected
+2025-11-27 13:27:22.221953 - file "people5.jpg" - 3 faces detected
+2025-11-27 13:27:31.764633 - file "people5.jpg" - 3 faces detected
+2025-11-27 13:27:37.417650 - file "people5.jpg" - 1 faces detected
+2025-11-27 13:27:42.855173 - file "people5.jpg" - 2 faces detected
+2025-11-27 13:27:47.483151 - file "people5.jpg" - 3 faces detected
+2025-11-27 13:27:50.522739 - file "people5.jpg" - 3 faces detected
+2025-11-27 13:27:55.789415 - file "people5.jpg" - 3 faces detected
+2025-11-27 13:28:03.706454 - file "people5.jpg" - 3 faces detected
+2025-11-27 13:28:05.298015 - file "people5.jpg" - 3 faces detected
+2025-11-27 13:28:16.632098 - file "people5.jpg" - 4 faces detected
+2025-11-27 13:31:25.524789 - file "people1.jpg" - 15 faces detected
+2025-11-27 13:31:34.363024 - file "people1.jpg" - 12 faces detected
+2025-11-27 13:31:39.289114 - file "people1.jpg" - 11 faces detected
+2025-11-27 13:31:44.219956 - file "people1.jpg" - 10 faces detected
+2025-11-27 13:31:47.442414 - file "people1.jpg" - 12 faces detected
+2025-11-27 13:31:51.237801 - file "people1.jpg" - 12 faces detected
+2025-11-27 13:31:53.441557 - file "people1.jpg" - 10 faces detected
+2025-11-27 13:31:55.972288 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:31:57.872956 - file "people1.jpg" - 8 faces detected
+2025-11-27 13:32:19.590866 - file "people1.jpg" - 10 faces detected
+2025-11-27 13:32:25.332254 - file "people1.jpg" - 7 faces detected
+2025-11-27 13:32:28.929366 - file "people1.jpg" - 8 faces detected
+2025-11-27 15:19:56.296681 - file "Mark_Zuckerberg.jpg" saved in database
+2025-11-27 15:20:16.448546 - file "Elon_Musk.jpg" saved in database
+2025-11-27 15:27:04.480814 - file "mark-zuckerberg.webp" saved in database
+2025-11-27 15:27:12.720678 - file "mark-zuckerberg.webp" saved in database
+2025-11-27 15:27:23.262962 - file "Jeff_Bezos.webp" saved in database
+2025-11-27 15:27:39.376642 - file "people3.jpg" saved in database
+2025-11-27 15:27:52.537822 - file "people3.jpg" saved in database
+2025-11-27 15:27:57.481198 - file "people3.jpg" saved in database
+2025-11-27 15:27:59.721370 - file "people3.jpg" saved in database
+2025-11-27 16:34:54.245253 - file "Elon_Musk.jpg" - 1 faces detected, 0 known: none
+2025-11-27 16:35:57.656341 - file "Jeff_Bezos.webp" - 1 faces detected, 0 known: none
+2025-11-27 16:36:49.628899 - file "mark-zuckerberg.webp" - 2 faces detected, 0 known: none
+2025-11-27 16:37:25.142544 - file "mark-zuckerberg.webp" - 4 faces detected, 0 known: none
+2025-11-27 16:37:33.593545 - file "mark-zuckerberg.webp" - 2 faces detected, 0 known: none
+2025-11-27 16:37:41.922047 - file "mark-zuckerberg.webp" - 2 faces detected, 0 known: none
+2025-11-27 16:37:49.983961 - file "mark-zuckerberg.webp" - 2 faces detected, 0 known: none
+2025-11-27 16:37:59.015328 - file "mark-zuckerberg.webp" - 2 faces detected, 0 known: none
+2025-11-27 16:38:14.818721 - file "mark-zuckerberg.webp" - 3 faces detected, 0 known: none
+2025-11-27 16:38:26.170050 - file "mark-zuckerberg.webp" - 2 faces detected, 0 known: none
+2025-11-27 16:38:44.139294 - file "mark-zuckerberg.webp" - 1 faces detected, 0 known: none
+2025-11-27 16:40:00.576313 - file "mark-zuckerberg.webp" - 3 faces detected, 0 known: none
+2025-11-27 16:40:03.227576 - file "mark-zuckerberg.webp" - 1 faces detected, 0 known: none
+2025-11-27 16:41:08.199165 - file "people3.jpg" - 1 faces detected, 0 known: none
+2025-11-27 16:41:24.823250 - file "people3.jpg" - 2 faces detected, 0 known: none
+2025-11-27 16:41:36.502005 - file "people3.jpg" - 4 faces detected, 0 known: none
+2025-11-27 16:56:03.301204 - file "Jeff_Bezos.webp" - 1 faces detected, 0 known: none
+2025-11-27 16:56:41.600491 - file "Jeff_Bezos.webp" - 1 faces detected, 0 known: none
+2025-11-27 16:57:01.962520 - file "Jeff_Bezos.webp" - 1 faces detected, 0 known: none
+2025-11-27 17:04:23.519633 - file "Elon_Musk.jpg" - 1 faces detected, 0 known: none
+2025-11-27 17:05:39.818521 - file "Elon_Musk.jpg" - 1 faces detected, 0 known: none
+2025-11-27 17:05:51.121511 - file "Elon_Musk.jpg" - 1 faces detected, 0 known: none
+2025-11-27 17:07:07.865831 - file "Jeff_Bezos.webp" - 1 faces detected, 0 known: none
+2025-11-27 17:07:27.082562 - file "Jeff_Bezos.webp" - 1 faces detected, 0 known: none
+2025-11-27 17:18:46.812519 - file "Elon_Musk.jpg" - 1 faces detected, 0 known: none
+2025-11-27 17:22:25.770412 - file "Mark_Zuckerberg.jpg" - 3 faces detected, 0 known: none
+2025-11-27 17:22:46.169915 - file "Mark_Zuckerberg.jpg" - 2 faces detected, 0 known: none
+2025-11-27 17:22:55.906705 - file "Mark_Zuckerberg.jpg" - 1 faces detected, 0 known: none
+2025-11-27 17:24:02.663557 - file "Jeff_Bezos.webp" - 1 faces detected, 0 known: none
+2025-11-27 18:09:33.564121 - file "Elon_Musk.jpg" - 1 faces detected
+2025-11-27 18:10:03.505660 - file "Jeff_Bezos.webp" - 1 faces detected
+2025-11-27 18:13:10.420696 - file "Mark_Zuckerberg.jpg" - 7 faces detected
+2025-11-27 18:37:42.472636 - file "Elon_Musk.jpg" - 1 faces detected
+2025-11-28 19:21:09.266852 - OpenFace - file "Jeff_Bezos.webp" - 1 faces detected
+2025-11-28 19:28:21.670693 - OpenFace - file "Jeff_Bezos.webp" - 1 faces detected
+2025-11-28 19:50:52.063096 - file "food1.jpg" classified as "a photo of a food" with confidence 99.04%, saved to "food"
+2025-11-28 19:51:49.317209 - file "people3.jpg" classified as "unknown" with confidence 73.97%, saved to "other"
+2025-11-28 20:59:54.506516 - file "people1.jpg" got caption "a group of people standing together"
+2025-11-28 21:00:43.926108 - file "cat1.jpg" - 0 objects detected: ""
+2025-11-28 21:00:57.159286 - file "cat1.jpg" - 1 objects detected: "cat"
+2025-11-28 21:02:16.640433 - file "dog.jpg" - 1 objects detected: "dog"
+2025-11-28 21:03:36.720658 - OpenFace - file "people3.jpg" - 4 faces detected
+2025-11-28 21:10:24.714912 - OpenFace - file "people1.jpg" - 9 faces detected
+2025-11-28 21:11:55.225627 - file "image2.jpg" classified as "a photo of nature" with confidence 99.65%, saved to "nature"
+2025-11-28 21:19:53.118991 - file "cat1.jpg" classified as "a photo of amnimal" with confidence 96.60%, saved to "other"
+2025-11-28 21:20:22.848781 - file "people3.jpg" classified as "unknown" with confidence 71.74%, saved to "other"
+2025-11-28 21:21:54.406791 - file "people1.jpg" classified as "a photo of people" with confidence 94.62%, saved to "people"
+2025-11-28 21:44:01.158530 - file "dog.jpg" classified as "a photo of animal" with confidence 97.77%, saved to "animals"
+2025-11-28 21:50:28.638613 - file "dog.jpg" classified as "a photo of animal" with confidence 97.77%, saved to "animals"
+2025-11-29 12:04:50.932770 - file "antenna.jpg" got caption "a large white satellite dish"
+2025-11-29 12:07:12.220018 - file "antenna.jpg" got caption "a large white satellite dish"
+2025-11-29 12:08:02.123342 - file "dog.jpg" - 1 objects detected: "dog"
+2025-11-29 12:09:44.204445 - file "antenna.jpg" - 0 objects detected: ""
+2025-11-29 12:09:52.082819 - file "antenna.jpg" - 0 objects detected: ""
+2025-11-29 12:09:59.872093 - file "antenna.jpg" - 0 objects detected: ""
+2025-11-29 12:10:05.175293 - file "antenna.jpg" - 1 objects detected: "airplane"
+2025-11-29 12:10:09.922047 - file "antenna.jpg" - 1 objects detected: "airplane"
+2025-11-29 12:11:02.686884 - file "Dog.jpeg" - 1 objects detected: "dog"
+2025-11-29 12:11:27.389207 - file "Dog.jpeg" - 1 objects detected: "dog"
+2025-11-29 12:11:28.595819 - file "Dog.jpeg" - 1 objects detected: "dog"
+2025-11-29 12:11:29.477673 - file "Dog.jpeg" - 1 objects detected: "dog"
+2025-11-29 12:11:45.990820 - file "dog.jpg" - 1 objects detected: "dog"
+2025-11-29 12:24:36.385004 - OpenFace - file "people1.jpg" - 8 faces detected
+2025-11-29 12:25:57.992988 - OpenFace - file "people1.jpg" - 9 faces detected
+2025-11-29 12:44:48.347026 - file "Dog.jpeg" classified as "a photo of animal" with confidence 98.72%, saved to "animals"
