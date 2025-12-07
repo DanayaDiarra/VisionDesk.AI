@@ -23,7 +23,7 @@ git clone https://github.com/DanayaDiarra/VisionDesk.AI.git
 cd VisionDesk.AI
 pip install -r requirements.txt
 
-```
+
 📁 Project Structure
 VisionDesk.AI/
 ├── Main_page.py          # Main application entry
