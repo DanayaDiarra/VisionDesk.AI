@@ -22,3 +22,25 @@ A comprehensive multi-tool computer vision application built with Streamlit and 
 git clone https://github.com/DanayaDiarra/VisionDesk.AI.git
 cd VisionDesk.AI
 pip install -r requirements.txt
+
+
+📁 Project Structure
+VisionDesk.AI/
+├── Main_page.py          # Main application entry
+├── stapp.py             # Alternative app entry
+├── config.json          # Application configuration
+├── requirements.txt     # Python dependencies
+├── .streamlit/          # Streamlit configuration
+│   └── config.toml
+├── pages/               # Feature modules (multi-page)
+│   ├── 1_Caption_Images.py
+│   ├── 2_Detect_Objects.py
+│   ├── 3_Detect_Faces.py
+│   ├── 4_Classify_Images.py
+│   ├── 5_Extract_Text.py
+│   ├── 5_Faces_database.py
+│   ├── 6_Gallery.py
+│   └── 7_Logs_and_stats.py
+├── yolo11n.pt           # YOLO model weights
+├── runnn.ipynb          # Jupyter notebook for experiments
+└── history.log          # Application logs
