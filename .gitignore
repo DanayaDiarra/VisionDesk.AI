@@ -15,7 +15,6 @@ build/
 .ipynb_checkpoints/
 
 # Streamlit
-.streamlit/
 
 # Data files
 *.pth
