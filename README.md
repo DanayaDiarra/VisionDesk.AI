@@ -14,17 +14,8 @@ A comprehensive multi-tool computer vision application built with Streamlit and 
 - **Text Extraction (OCR)** from images
 - **Gallery Management** with search and filter
 - **Logging & Analytics** dashboard
-
-## 🚀 Quick Start
-
-### Installation
-```bash
-git clone https://github.com/DanayaDiarra/VisionDesk.AI.git
-cd VisionDesk.AI
-pip install -r requirements.txt
-
-
-📁 Project Structure
+  
+## 📁 Project Structure
 VisionDesk.AI/
 ├── Main_page.py          # Main application entry
 ├── stapp.py             # Alternative app entry
@@ -44,3 +35,14 @@ VisionDesk.AI/
 ├── yolo11n.pt           # YOLO model weights
 ├── runnn.ipynb          # Jupyter notebook for experiments
 └── history.log          # Application logs
+
+
+## 🚀 Quick Start
+
+### Installation
+```bash
+git clone https://github.com/DanayaDiarra/VisionDesk.AI.git
+cd VisionDesk.AI
+pip install -r requirements.txt
+
+
