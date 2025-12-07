@@ -1,6 +1,39 @@
-.ipynb_checkpoints/
-*.checkpoint*
-.ipynb_checkpoints/
-*.checkpoint*
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Data files
+*.pth
+*.pt
+*.bin
+*.h5
+*.onnx
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
